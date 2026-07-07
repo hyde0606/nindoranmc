@@ -1,0 +1,636 @@
+{
+  "version": "2026.07.07",
+  "files": [
+    {
+      "action": "download",
+      "url": "https://github.com/hyde0606/nindoranmc/releases/download/260707_2200/Almanac-1.21.1-2-neoforge-1.5.2.jar",
+      "dest": "mods/Almanac-1.21.1-2-neoforge-1.5.2.jar",
+      "sha1": "d613dbc38ca5bcc718408db432385c2e67ac763f"
+    },
+    {
+      "action": "download",
+      "url": "https://github.com/hyde0606/nindoranmc/releases/download/260707_2200/Aquaculture-1.21.1-2.7.21.jar",
+      "dest": "mods/Aquaculture-1.21.1-2.7.21.jar",
+      "sha1": "93c2043c6a5cfbfbfba93321d044bc61d8a6547b"
+    },
+    {
+      "action": "download",
+      "url": "https://github.com/hyde0606/nindoranmc/releases/download/260707_2200/BetterAdvancements-NeoForge-1.21.1-0.4.3.21.jar",
+      "dest": "mods/BetterAdvancements-NeoForge-1.21.1-0.4.3.21.jar",
+      "sha1": "464e42531a2bdebff1f385b30a4156dc011e7e53"
+    },
+    {
+      "action": "download",
+      "url": "https://github.com/hyde0606/nindoranmc/releases/download/260707_2200/BetterThirdPerson-neoforge-1.9.0.jar",
+      "dest": "mods/BetterThirdPerson-neoforge-1.9.0.jar",
+      "sha1": "56344263ad0ae93618e9abbeb8a086e1102137b0"
+    },
+    {
+      "action": "download",
+      "url": "https://github.com/hyde0606/nindoranmc/releases/download/260707_2200/Boxlib-neoforge-14.4.2.jar",
+      "dest": "mods/Boxlib-neoforge-14.4.2.jar",
+      "sha1": "da7a28a82bbd1b4665a9c7c6f5f4b60b670e25bc"
+    },
+    {
+      "action": "download",
+      "url": "https://github.com/hyde0606/nindoranmc/releases/download/260707_2200/Clumps-neoforge-1.21.1-19.0.0.1.jar",
+      "dest": "mods/Clumps-neoforge-1.21.1-19.0.0.1.jar",
+      "sha1": "fa2576297c7bd12b28aa7070e8141792bd66da4c"
+    },
+    {
+      "action": "download",
+      "url": "https://github.com/hyde0606/nindoranmc/releases/download/260707_2200/CobbleDollars-neoforge-2.0.0+Beta-5.1+1.21.1.jar",
+      "dest": "mods/CobbleDollars-neoforge-2.0.0+Beta-5.1+1.21.1.jar",
+      "sha1": "02bdc10c4bdef02b80cd5e65b85e0bd236806a07"
+    },
+    {
+      "action": "download",
+      "url": "https://github.com/hyde0606/nindoranmc/releases/download/260707_2200/CobbleFurnies-neoforge-1.2.jar",
+      "dest": "mods/CobbleFurnies-neoforge-1.2.jar",
+      "sha1": "cc6c0702334e53d9907884e38f907e7e27bbb8a3"
+    },
+    {
+      "action": "download",
+      "url": "https://github.com/hyde0606/nindoranmc/releases/download/260707_2200/Cobblemon-neoforge-1_7_3_1_21_1-fastbattle.jar",
+      "dest": "mods/Cobblemon-neoforge-1_7_3_1_21_1-fastbattle.jar",
+      "sha1": "48ee30ef069ce7b5ee4c264d1770d11467416dc3"
+    },
+    {
+      "action": "download",
+      "url": "https://github.com/hyde0606/nindoranmc/releases/download/260707_2200/Cucumber-1.21.1-8.0.16.jar",
+      "dest": "mods/Cucumber-1.21.1-8.0.16.jar",
+      "sha1": "0e97553af44d39d1976fe6feb4baf1c30c6b2f06"
+    },
+    {
+      "action": "download",
+      "url": "https://github.com/hyde0606/nindoranmc/releases/download/260707_2200/ExplorersCompass-1.21.1-3.4.0-neoforge.jar",
+      "dest": "mods/ExplorersCompass-1.21.1-3.4.0-neoforge.jar",
+      "sha1": "9f62af344988a6e2d855b113e61cf0e1611c7e0f"
+    },
+    {
+      "action": "download",
+      "url": "https://github.com/hyde0606/nindoranmc/releases/download/260707_2200/FarmersDelight-1.21.1-1.3.2.jar",
+      "dest": "mods/FarmersDelight-1.21.1-1.3.2.jar",
+      "sha1": "bf7e7dede99e832de20e191b1f6c11f7a9b9a622"
+    },
+    {
+      "action": "download",
+      "url": "https://github.com/hyde0606/nindoranmc/releases/download/260707_2200/FpsReducer2-neoforge-1.21-2.10.jar",
+      "dest": "mods/FpsReducer2-neoforge-1.21-2.10.jar",
+      "sha1": "edb3e8d90992aae937c79827282f854f4cc5939c"
+    },
+    {
+      "action": "download",
+      "url": "https://github.com/hyde0606/nindoranmc/releases/download/260707_2200/JustEnoughProfessions-neoforge-1.21.1-4.0.5.jar",
+      "dest": "mods/JustEnoughProfessions-neoforge-1.21.1-4.0.5.jar",
+      "sha1": "439ea1baa5e3065e36e0e57422f22403918bb59f"
+    },
+    {
+      "action": "download",
+      "url": "https://github.com/hyde0606/nindoranmc/releases/download/260707_2200/JustEnoughResources-NeoForge-1.21.1-1.6.0.12.jar",
+      "dest": "mods/JustEnoughResources-NeoForge-1.21.1-1.6.0.12.jar",
+      "sha1": "36dadee431118e7b7912cf8981d4afa7992dc93d"
+    },
+    {
+      "action": "download",
+      "url": "https://github.com/hyde0606/nindoranmc/releases/download/260707_2200/L_Ender's Cataclysm 1.21.1-3.31.jar",
+      "dest": "mods/L_Ender's Cataclysm 1.21.1-3.31.jar",
+      "sha1": "0bbc8a16e061c8d186186f387f0f159f4c13bf63"
+    },
+    {
+      "action": "download",
+      "url": "https://github.com/hyde0606/nindoranmc/releases/download/260707_2200/MysticalAgriculture-1.21.1-8.0.26.jar",
+      "dest": "mods/MysticalAgriculture-1.21.1-8.0.26.jar",
+      "sha1": "4f341e3e6d7f10a56bdd20105e980cce914eee6d"
+    },
+    {
+      "action": "download",
+      "url": "https://github.com/hyde0606/nindoranmc/releases/download/260707_2200/MythsAndLegends-neoforge-1.9.0.jar",
+      "dest": "mods/MythsAndLegends-neoforge-1.9.0.jar",
+      "sha1": "3557319b8ed5000bbdc822080b15c63653168ccd"
+    },
+    {
+      "action": "download",
+      "url": "https://github.com/hyde0606/nindoranmc/releases/download/260707_2200/OctoLib-NEOFORGE-0.6.2+1.21.jar",
+      "dest": "mods/OctoLib-NEOFORGE-0.6.2+1.21.jar",
+      "sha1": "f4f66d677b104c6af7f5c0f7e3c08d8e4370ecad"
+    },
+    {
+      "action": "download",
+      "url": "https://github.com/hyde0606/nindoranmc/releases/download/260707_2200/Patchouli-1.21.1-93-NEOFORGE.jar",
+      "dest": "mods/Patchouli-1.21.1-93-NEOFORGE.jar",
+      "sha1": "5413bb9b8fc35ebe46b06b48bf9afafbd8471140"
+    },
+    {
+      "action": "download",
+      "url": "https://github.com/hyde0606/nindoranmc/releases/download/260707_2200/Ping-Wheel-1.12.2-neoforge-1.21.1.jar",
+      "dest": "mods/Ping-Wheel-1.12.2-neoforge-1.21.1.jar",
+      "sha1": "bfc416a7bc2edde6ff98672a7df43a3d9930a396"
+    },
+    {
+      "action": "download",
+      "url": "https://github.com/hyde0606/nindoranmc/releases/download/260707_2200/Platform-neoforge-1.21.1-1.3.3.jar",
+      "dest": "mods/Platform-neoforge-1.21.1-1.3.3.jar",
+      "sha1": "4132ad6809008698b7f489a878e5a33a3879bbfd"
+    },
+    {
+      "action": "download",
+      "url": "https://github.com/hyde0606/nindoranmc/releases/download/260707_2200/SimpleTMs-neoforge-2.3.3.jar",
+      "dest": "mods/SimpleTMs-neoforge-2.3.3.jar",
+      "sha1": "f30723c57a72ff9c9f4b54fe1652430273355607"
+    },
+    {
+      "action": "download",
+      "url": "https://github.com/hyde0606/nindoranmc/releases/download/260707_2200/Terralith_1.21.x_v2.6.2.jar",
+      "dest": "mods/Terralith_1.21.x_v2.6.2.jar",
+      "sha1": "d4a9fe71b841f70edfb4b280f9bf5c58e4a28224"
+    },
+    {
+      "action": "download",
+      "url": "https://github.com/hyde0606/nindoranmc/releases/download/260707_2200/VanillaBackport-neoforge-1.21.1-1.1.7.10.jar",
+      "dest": "mods/VanillaBackport-neoforge-1.21.1-1.1.7.10.jar",
+      "sha1": "eb30efe569cbd5186abf9e5d1e64d4a84895b346"
+    },
+    {
+      "action": "download",
+      "url": "https://github.com/hyde0606/nindoranmc/releases/download/260707_2200/accessories-neoforge-1_1_0-beta_53_1_21_1.jar",
+      "dest": "mods/accessories-neoforge-1_1_0-beta_53_1_21_1.jar",
+      "sha1": "46bdc06388c27691bfb7574e5b82a8fe0f0c2537"
+    },
+    {
+      "action": "download",
+      "url": "https://github.com/hyde0606/nindoranmc/releases/download/260707_2200/accessories_compat_layer-neoforge-0_1_12_1_21_1.jar",
+      "dest": "mods/accessories_compat_layer-neoforge-0_1_12_1_21_1.jar",
+      "sha1": "ec51ba3141caf0820c5969623e273f8def336486"
+    },
+    {
+      "action": "download",
+      "url": "https://github.com/hyde0606/nindoranmc/releases/download/260707_2200/aether-1.21.1-1.5.10-neoforge.jar",
+      "dest": "mods/aether-1.21.1-1.5.10-neoforge.jar",
+      "sha1": "5b5592989c6d2aabf80a9f100e18c258813db497"
+    },
+    {
+      "action": "download",
+      "url": "https://github.com/hyde0606/nindoranmc/releases/download/260707_2200/appleskin-neoforge-mc1.21-3.0.9.jar",
+      "dest": "mods/appleskin-neoforge-mc1.21-3.0.9.jar",
+      "sha1": "81cf0e668f991f83ac8820c386fbd6c9c3602246"
+    },
+    {
+      "action": "download",
+      "url": "https://github.com/hyde0606/nindoranmc/releases/download/260707_2200/aquaculturedelight-1.2.0-neoforge-1.21.1.jar",
+      "dest": "mods/aquaculturedelight-1.2.0-neoforge-1.21.1.jar",
+      "sha1": "111393c07a98f29cab1de0d91965cc1bc6d9d73f"
+    },
+    {
+      "action": "download",
+      "url": "https://github.com/hyde0606/nindoranmc/releases/download/260707_2200/architectury-13.0.8-neoforge.jar",
+      "dest": "mods/architectury-13.0.8-neoforge.jar",
+      "sha1": "6ca11d3cc136bf69bb8f4d56982481eb85b5100b"
+    },
+    {
+      "action": "download",
+      "url": "https://github.com/hyde0606/nindoranmc/releases/download/260707_2200/artifacts-neoforge-13.2.1.jar",
+      "dest": "mods/artifacts-neoforge-13.2.1.jar",
+      "sha1": "3fe4d52cc0b11d91c75005030e83e3f675e62383"
+    },
+    {
+      "action": "download",
+      "url": "https://github.com/hyde0606/nindoranmc/releases/download/260707_2200/athena-neoforge-1.21.1-4.0.6.jar",
+      "dest": "mods/athena-neoforge-1.21.1-4.0.6.jar",
+      "sha1": "4bcbdf388bd5e387beca7c627224aac33584b55b"
+    },
+    {
+      "action": "download",
+      "url": "https://github.com/hyde0606/nindoranmc/releases/download/260707_2200/auto_third_person-neo-1.21.1-2.2.jar",
+      "dest": "mods/auto_third_person-neo-1.21.1-2.2.jar",
+      "sha1": "5b66b1c3ca8d32d06327d9564abf5a364296af3c"
+    },
+    {
+      "action": "download",
+      "url": "https://github.com/hyde0606/nindoranmc/releases/download/260707_2200/balm-neoforge-1.21.1-21.0.59.jar",
+      "dest": "mods/balm-neoforge-1.21.1-21.0.59.jar",
+      "sha1": "b0bf4bed336237bfbe35879c33f30357b53e8664"
+    },
+    {
+      "action": "download",
+      "url": "https://github.com/hyde0606/nindoranmc/releases/download/260707_2200/battle-scoreboard-hider-1.3.0.jar",
+      "dest": "mods/battle-scoreboard-hider-1.3.0.jar",
+      "sha1": "5fa1411f3096d4c723c17239df066978bf190364"
+    },
+    {
+      "action": "download",
+      "url": "https://github.com/hyde0606/nindoranmc/releases/download/260707_2200/bountiful-neoforge-8.0.0-beta.2.jar",
+      "dest": "mods/bountiful-neoforge-8.0.0-beta.2.jar",
+      "sha1": "8c1786d2850bd15c3a2dd0f50fccfda09125faa5"
+    },
+    {
+      "action": "download",
+      "url": "https://github.com/hyde0606/nindoranmc/releases/download/260707_2200/capturexp-neoforge-1.7.3-1.3.0.jar",
+      "dest": "mods/capturexp-neoforge-1.7.3-1.3.0.jar",
+      "sha1": "49bd6e318afc2d9f99d1bbd753012738ecc3c7ed"
+    },
+    {
+      "action": "download",
+      "url": "https://github.com/hyde0606/nindoranmc/releases/download/260707_2200/carryon-neoforge-1.21.1-2.2.4.4.jar",
+      "dest": "mods/carryon-neoforge-1.21.1-2.2.4.4.jar",
+      "sha1": "774bf57a199784c35e74f2d619d6001c87185a11"
+    },
+    {
+      "action": "download",
+      "url": "https://github.com/hyde0606/nindoranmc/releases/download/260707_2200/chattools-v2.4.2.2+1.21.1-neoforge.jar",
+      "dest": "mods/chattools-v2.4.2.2+1.21.1-neoforge.jar",
+      "sha1": "733672a7da9bc0eee963403f101a45710d852f6e"
+    },
+    {
+      "action": "download",
+      "url": "https://github.com/hyde0606/nindoranmc/releases/download/260707_2200/chipped-neoforge-1.21.1-4.0.2.jar",
+      "dest": "mods/chipped-neoforge-1.21.1-4.0.2.jar",
+      "sha1": "6f5395f58139802edfde7cb9170279f92f291971"
+    },
+    {
+      "action": "download",
+      "url": "https://github.com/hyde0606/nindoranmc/releases/download/260707_2200/cleanswing-1.9.jar",
+      "dest": "mods/cleanswing-1.9.jar",
+      "sha1": "c4746d331a9a73158da1c330f0d46ce8714ce5d8"
+    },
+    {
+      "action": "download",
+      "url": "https://github.com/hyde0606/nindoranmc/releases/download/260707_2200/cloth-config-15.0.140-neoforge.jar",
+      "dest": "mods/cloth-config-15.0.140-neoforge.jar",
+      "sha1": "c3e5733ba4503b102589a026000fd5ce0212f6f2"
+    },
+    {
+      "action": "download",
+      "url": "https://github.com/hyde0606/nindoranmc/releases/download/260707_2200/cobblemon-battle-extras-neoforge-1_13_45-uncapped.jar",
+      "dest": "mods/cobblemon-battle-extras-neoforge-1_13_45-uncapped.jar",
+      "sha1": "7e817b26aaf677542679544cb493b3a2799e10aa"
+    },
+    {
+      "action": "download",
+      "url": "https://github.com/hyde0606/nindoranmc/releases/download/260707_2200/cobblemon_quests-reloaded-[1.21.1]-neoforge-1.3.5.jar",
+      "dest": "mods/cobblemon_quests-reloaded-[1.21.1]-neoforge-1.3.5.jar",
+      "sha1": "f6c2dcae4857456139bb7b1f2c9e3edc87e3d94a"
+    },
+    {
+      "action": "download",
+      "url": "https://github.com/hyde0606/nindoranmc/releases/download/260707_2200/cobblemon_smartphone-neoforge-1.0.9-rev01.jar",
+      "dest": "mods/cobblemon_smartphone-neoforge-1.0.9-rev01.jar",
+      "sha1": "b8770ff1fab7c942113b22b281060c60974afbbb"
+    },
+    {
+      "action": "download",
+      "url": "https://github.com/hyde0606/nindoranmc/releases/download/260707_2200/cobblemonextrastructures-1.21.1-1.3.0-neoforge.jar",
+      "dest": "mods/cobblemonextrastructures-1.21.1-1.3.0-neoforge.jar",
+      "sha1": "06afaff0680f962fd7aecd932b5a2ddba1e4df22"
+    },
+    {
+      "action": "download",
+      "url": "https://github.com/hyde0606/nindoranmc/releases/download/260707_2200/cobblenav-neoforge-2.3.3.jar",
+      "dest": "mods/cobblenav-neoforge-2.3.3.jar",
+      "sha1": "670ed9b1d74cac3b65876073ef11428cb2149027"
+    },
+    {
+      "action": "download",
+      "url": "https://github.com/hyde0606/nindoranmc/releases/download/260707_2200/collective-1.21.1-8.32.jar",
+      "dest": "mods/collective-1.21.1-8.32.jar",
+      "sha1": "9b3d7e03fed2a098d988e6992029f2e279bbc73d"
+    },
+    {
+      "action": "download",
+      "url": "https://github.com/hyde0606/nindoranmc/releases/download/260707_2200/copperagebackport-neoforge-1.21.1-0.1.4_kr.jar",
+      "dest": "mods/copperagebackport-neoforge-1.21.1-0.1.4_kr.jar",
+      "sha1": "07cb7d4d73b5b40f84841ebe82ca2dc683bb9ef8"
+    },
+    {
+      "action": "download",
+      "url": "https://github.com/hyde0606/nindoranmc/releases/download/260707_2200/copperagebackport_durability_fix-neoforge-0.1.0.jar",
+      "dest": "mods/copperagebackport_durability_fix-neoforge-0.1.0.jar",
+      "sha1": "4ec9d6bdae867051f011eefc0ed3a1936b982d59"
+    },
+    {
+      "action": "download",
+      "url": "https://github.com/hyde0606/nindoranmc/releases/download/260707_2200/crop-marker-neoforge-1.21.1-1.2.3.jar",
+      "dest": "mods/crop-marker-neoforge-1.21.1-1.2.3.jar",
+      "sha1": "3fa12bd8b2e86f4b777407815bff81b8f7f3d5d3"
+    },
+    {
+      "action": "download",
+      "url": "https://github.com/hyde0606/nindoranmc/releases/download/260707_2200/cupboard-1.21.1-3.8.jar",
+      "dest": "mods/cupboard-1.21.1-3.8.jar",
+      "sha1": "39df849e5a338dfe9ccb7632b1849c20357e597b"
+    },
+    {
+      "action": "download",
+      "url": "https://github.com/hyde0606/nindoranmc/releases/download/260707_2200/curios-neoforge-9_5_1_1_21_1.jar",
+      "dest": "mods/curios-neoforge-9_5_1_1_21_1.jar",
+      "sha1": "e3a97d7793c11311a367c398f1cb922ea549fb57"
+    },
+    {
+      "action": "download",
+      "url": "https://github.com/hyde0606/nindoranmc/releases/download/260707_2200/cwb-neoforge-3.0.0+mc1.21.jar",
+      "dest": "mods/cwb-neoforge-3.0.0+mc1.21.jar",
+      "sha1": "6fe849c4a488107572c9af9d7d8329d93376f343"
+    },
+    {
+      "action": "download",
+      "url": "https://github.com/hyde0606/nindoranmc/releases/download/260707_2200/emi-1.1.24+1.21.1+neoforge.jar",
+      "dest": "mods/emi-1.1.24+1.21.1+neoforge.jar",
+      "sha1": "d8e38631fbf70f4ff66f2aa91c7524c8a17bf9c7"
+    },
+    {
+      "action": "download",
+      "url": "https://github.com/hyde0606/nindoranmc/releases/download/260707_2200/emi_enchanting-0.1.2+1.21+neoforge.jar",
+      "dest": "mods/emi_enchanting-0.1.2+1.21+neoforge.jar",
+      "sha1": "0069e6647c48bfc3481b12ee18b4f808a8c93c4f"
+    },
+    {
+      "action": "download",
+      "url": "https://github.com/hyde0606/nindoranmc/releases/download/260707_2200/emi_ores-1.3+1.21.1+neoforge.jar",
+      "dest": "mods/emi_ores-1.3+1.21.1+neoforge.jar",
+      "sha1": "243377cffc4ebb228e9c8a5aed32e7b3888cd7c0"
+    },
+    {
+      "action": "download",
+      "url": "https://github.com/hyde0606/nindoranmc/releases/download/260707_2200/endrem-neoforge-1.21.X-6.0.2.jar",
+      "dest": "mods/endrem-neoforge-1.21.X-6.0.2.jar",
+      "sha1": "bfba2c654f3df8cc7d6006056eefbf2b9070dcd4"
+    },
+    {
+      "action": "download",
+      "url": "https://github.com/hyde0606/nindoranmc/releases/download/260707_2200/entityculling-neoforge-1.10.5-mc1.21.1.jar",
+      "dest": "mods/entityculling-neoforge-1.10.5-mc1.21.1.jar",
+      "sha1": "7b1b7ad01bc8e74e5af332ae0932134ed91048a0"
+    },
+    {
+      "action": "download",
+      "url": "https://github.com/hyde0606/nindoranmc/releases/download/260707_2200/ferritecore-7.0.3-neoforge.jar",
+      "dest": "mods/ferritecore-7.0.3-neoforge.jar",
+      "sha1": "9563692efb708b6b568df27a01ec52f6311928ef"
+    },
+    {
+      "action": "download",
+      "url": "https://github.com/hyde0606/nindoranmc/releases/download/260707_2200/fightorflight-neoforge-0.10.8.jar",
+      "dest": "mods/fightorflight-neoforge-0.10.8.jar",
+      "sha1": "65baa4def9fe45df230152bcc8a9f9fec9fc4d4c"
+    },
+    {
+      "action": "download",
+      "url": "https://github.com/hyde0606/nindoranmc/releases/download/260707_2200/ftb-chunks-neoforge-2101_1_20-korean.jar",
+      "dest": "mods/ftb-chunks-neoforge-2101_1_20-korean.jar",
+      "sha1": "c13a66ce70797021f21c9dea7ea15ae69f6abed1"
+    },
+    {
+      "action": "download",
+      "url": "https://github.com/hyde0606/nindoranmc/releases/download/260707_2200/ftb-library-neoforge-2101.1.32.jar",
+      "dest": "mods/ftb-library-neoforge-2101.1.32.jar",
+      "sha1": "836411988409e166020db2914cab5d4f93466fc4"
+    },
+    {
+      "action": "download",
+      "url": "https://github.com/hyde0606/nindoranmc/releases/download/260707_2200/ftb-quests-entity-vis-1.4.0-1.21.1-neoforge.jar",
+      "dest": "mods/ftb-quests-entity-vis-1.4.0-1.21.1-neoforge.jar",
+      "sha1": "f01658f29445eda9bd5588421d7954b122bb6bf0"
+    },
+    {
+      "action": "download",
+      "url": "https://github.com/hyde0606/nindoranmc/releases/download/260707_2200/ftb-quests-neoforge-2101.1.27.jar",
+      "dest": "mods/ftb-quests-neoforge-2101.1.27.jar",
+      "sha1": "baf3a7f173d09c2b9800626109cf6ca5a52a6c19"
+    },
+    {
+      "action": "download",
+      "url": "https://github.com/hyde0606/nindoranmc/releases/download/260707_2200/ftb-ranks-neoforge-2101.1.3.jar",
+      "dest": "mods/ftb-ranks-neoforge-2101.1.3.jar",
+      "sha1": "07fdfa3a75c3481770ce0118090a347d89e3a560"
+    },
+    {
+      "action": "download",
+      "url": "https://github.com/hyde0606/nindoranmc/releases/download/260707_2200/ftb-teams-neoforge-2101.1.10.jar",
+      "dest": "mods/ftb-teams-neoforge-2101.1.10.jar",
+      "sha1": "363376ae0fb22cb0527170fdf6a066d1da9b0225"
+    },
+    {
+      "action": "download",
+      "url": "https://github.com/hyde0606/nindoranmc/releases/download/260707_2200/ftb-xmod-compat-neoforge-21.1.8.jar",
+      "dest": "mods/ftb-xmod-compat-neoforge-21.1.8.jar",
+      "sha1": "0c25fc1a43c99eaa68c883dc77e3ebf4539629e6"
+    },
+    {
+      "action": "download",
+      "url": "https://github.com/hyde0606/nindoranmc/releases/download/260707_2200/gravestone-neoforge-1.21.1-1.0.37.jar",
+      "dest": "mods/gravestone-neoforge-1.21.1-1.0.37.jar",
+      "sha1": "4120452fb038e7781367774a10093c8767cc4c1b"
+    },
+    {
+      "action": "download",
+      "url": "https://github.com/hyde0606/nindoranmc/releases/download/260707_2200/inventorysorter-1.21.1-24.0.24.jar",
+      "dest": "mods/inventorysorter-1.21.1-24.0.24.jar",
+      "sha1": "8c842959ecb1927e1c7049d41d024fadf329a584"
+    },
+    {
+      "action": "download",
+      "url": "https://github.com/hyde0606/nindoranmc/releases/download/260707_2200/jei-1.21.1-neoforge-19.27.0.340.jar",
+      "dest": "mods/jei-1.21.1-neoforge-19.27.0.340.jar",
+      "sha1": "27d0d85e7e32e926fc3664ab6815df5cdabb7941"
+    },
+    {
+      "action": "download",
+      "url": "https://github.com/hyde0606/nindoranmc/releases/download/260707_2200/kambrik-neoforge-8.0.0-beta.2.jar",
+      "dest": "mods/kambrik-neoforge-8.0.0-beta.2.jar",
+      "sha1": "9e41688287925e7a65375d96f32eefca7ab2a821"
+    },
+    {
+      "action": "download",
+      "url": "https://github.com/hyde0606/nindoranmc/releases/download/260707_2200/koreanpatch-neoforge-1.9.6+mc1.21.jar",
+      "dest": "mods/koreanpatch-neoforge-1.9.6+mc1.21.jar",
+      "sha1": "b8ea18df43478b1432dc184b313d9dc5ead2c19d"
+    },
+    {
+      "action": "download",
+      "url": "https://github.com/hyde0606/nindoranmc/releases/download/260707_2200/kotlinforforge-5.11.0-all.jar",
+      "dest": "mods/kotlinforforge-5.11.0-all.jar",
+      "sha1": "a8b9f1233336ca9fe4702bc2cc5a6f97ad5e3b65"
+    },
+    {
+      "action": "download",
+      "url": "https://github.com/hyde0606/nindoranmc/releases/download/260707_2200/kubejs-neoforge-2101.7.2-build.368.jar",
+      "dest": "mods/kubejs-neoforge-2101.7.2-build.368.jar",
+      "sha1": "cd8e1e392d642e4d0f1fbc099d93da105c263d0d"
+    },
+    {
+      "action": "download",
+      "url": "https://github.com/hyde0606/nindoranmc/releases/download/260707_2200/lambdynamiclights-4.8.10+1.21.1.jar",
+      "dest": "mods/lambdynamiclights-4.8.10+1.21.1.jar",
+      "sha1": "7d2e36037c88d24e40e0fdd4bf2bed9f8c2dd092"
+    },
+    {
+      "action": "download",
+      "url": "https://github.com/hyde0606/nindoranmc/releases/download/260707_2200/legendary_monsters-2_1_18_MC_1_21_1.jar",
+      "dest": "mods/legendary_monsters-2_1_18_MC_1_21_1.jar",
+      "sha1": "ce8b855ad607dcd53c61170928b513dd91f2b022"
+    },
+    {
+      "action": "download",
+      "url": "https://github.com/hyde0606/nindoranmc/releases/download/260707_2200/legendarymonuments-neoforge-1.21.1-8.0.3.jar",
+      "dest": "mods/legendarymonuments-neoforge-1.21.1-8.0.3.jar",
+      "sha1": "127ab1d7016b0c7829f503371ec9be8331b675f3"
+    },
+    {
+      "action": "download",
+      "url": "https://github.com/hyde0606/nindoranmc/releases/download/260707_2200/letsdo-API-forge-1.3.0-beta-release-forge.jar",
+      "dest": "mods/letsdo-API-forge-1.3.0-beta-release-forge.jar",
+      "sha1": "9858fa5644714c416c33f62c8723f8e6125314ad"
+    },
+    {
+      "action": "download",
+      "url": "https://github.com/hyde0606/nindoranmc/releases/download/260707_2200/letsdo-vinery-neoforge-1_5_3-ko.jar",
+      "dest": "mods/letsdo-vinery-neoforge-1_5_3-ko.jar",
+      "sha1": "04da486afb7878e057e90649f93671e957d0ad35"
+    },
+    {
+      "action": "download",
+      "url": "https://github.com/hyde0606/nindoranmc/releases/download/260707_2200/lionfishapi-3.0.jar",
+      "dest": "mods/lionfishapi-3.0.jar",
+      "sha1": "934336ca431f40be60c98ea4efb9512e3abd83a8"
+    },
+    {
+      "action": "download",
+      "url": "https://github.com/hyde0606/nindoranmc/releases/download/260707_2200/lithostitched-1.7.13-neoforge-21.1.jar",
+      "dest": "mods/lithostitched-1.7.13-neoforge-21.1.jar",
+      "sha1": "771a104dde071e16e67c7cd3149f7c3015375483"
+    },
+    {
+      "action": "download",
+      "url": "https://github.com/hyde0606/nindoranmc/releases/download/260707_2200/lootr-neoforge-1_21_1-1_11_37_121.jar",
+      "dest": "mods/lootr-neoforge-1_21_1-1_11_37_121.jar",
+      "sha1": "2474df8e2b6f3734b52795db4c2b1f65860343b6"
+    },
+    {
+      "action": "download",
+      "url": "https://github.com/hyde0606/nindoranmc/releases/download/260707_2200/mega_showdown-neoforge-1.8.4+1.7.3+1.21.1.jar",
+      "dest": "mods/mega_showdown-neoforge-1.8.4+1.7.3+1.21.1.jar",
+      "sha1": "60efa7de89d832ba7a80c9320fe89376a5d47089"
+    },
+    {
+      "action": "download",
+      "url": "https://github.com/hyde0606/nindoranmc/releases/download/260707_2200/owo-lib-neoforge-0.12.15.5-beta.1+1.21.jar",
+      "dest": "mods/owo-lib-neoforge-0.12.15.5-beta.1+1.21.jar",
+      "sha1": "48dda11a6710591cf162bdbedf982ea21dd1f2ed"
+    },
+    {
+      "action": "download",
+      "url": "https://github.com/hyde0606/nindoranmc/releases/download/260707_2200/particlerain-4.0.0-beta.10+1.21.1-neoforge.jar",
+      "dest": "mods/particlerain-4.0.0-beta.10+1.21.1-neoforge.jar",
+      "sha1": "a613b037401c2cc15d6337d6edea0cc3c50a203e"
+    },
+    {
+      "action": "download",
+      "url": "https://github.com/hyde0606/nindoranmc/releases/download/260707_2200/progressivestages-2_1-ko.jar",
+      "dest": "mods/progressivestages-2_1-ko.jar",
+      "sha1": "10e4010dadf6f33a4d05802cbc5dec864a2eb5b0"
+    },
+    {
+      "action": "download",
+      "url": "https://github.com/hyde0606/nindoranmc/releases/download/260707_2200/quality_equipment-2_0-neoforge-1_21_1.jar",
+      "dest": "mods/quality_equipment-2_0-neoforge-1_21_1.jar",
+      "sha1": "d2716a2e88f49df9fbbd792e2f4c484e1aec7e9d"
+    },
+    {
+      "action": "download",
+      "url": "https://github.com/hyde0606/nindoranmc/releases/download/260707_2200/relics-1_21_1-0_12_8.jar",
+      "dest": "mods/relics-1_21_1-0_12_8.jar",
+      "sha1": "f6bca3ba979a1884aeb15ae2b8be0a69761cb77d"
+    },
+    {
+      "action": "download",
+      "url": "https://github.com/hyde0606/nindoranmc/releases/download/260707_2200/reliquified_artifacts-1_21_1-1_0_7.jar",
+      "dest": "mods/reliquified_artifacts-1_21_1-1_0_7.jar",
+      "sha1": "c038103f4629f69ab1d4ce39fcaa15c0a5e18970"
+    },
+    {
+      "action": "download",
+      "url": "https://github.com/hyde0606/nindoranmc/releases/download/260707_2200/resourcefullib-neoforge-1.21-3.0.12.jar",
+      "dest": "mods/resourcefullib-neoforge-1.21-3.0.12.jar",
+      "sha1": "24389c8e48ff0e8594e4686b750c494c66a5f8df"
+    },
+    {
+      "action": "download",
+      "url": "https://github.com/hyde0606/nindoranmc/releases/download/260707_2200/rhino-2101.2.7-build.85.jar",
+      "dest": "mods/rhino-2101.2.7-build.85.jar",
+      "sha1": "370598a1d2321c8a705ce539eb970375f20150c3"
+    },
+    {
+      "action": "download",
+      "url": "https://github.com/hyde0606/nindoranmc/releases/download/260707_2200/scoreboardtweaks-1.3.4+1.21.1-neoforge.jar",
+      "dest": "mods/scoreboardtweaks-1.3.4+1.21.1-neoforge.jar",
+      "sha1": "2927a1b038b456751646da786c47a5f1ca547e28"
+    },
+    {
+      "action": "download",
+      "url": "https://github.com/hyde0606/nindoranmc/releases/download/260707_2200/sophisticatedbackpacks-1_21_1-3_25_64_1933.jar",
+      "dest": "mods/sophisticatedbackpacks-1_21_1-3_25_64_1933.jar",
+      "sha1": "98bd02b635aab2450be81149e1bd85286e9f186d"
+    },
+    {
+      "action": "download",
+      "url": "https://github.com/hyde0606/nindoranmc/releases/download/260707_2200/sophisticatedcore-1.21.1-1.4.61.2066.jar",
+      "dest": "mods/sophisticatedcore-1.21.1-1.4.61.2066.jar",
+      "sha1": "b33edcdec3a94592af3aa772283cdc837d12ba3d"
+    },
+    {
+      "action": "download",
+      "url": "https://github.com/hyde0606/nindoranmc/releases/download/260707_2200/sophisticatedstorage-1_21_1-1_5_65_1903.jar",
+      "dest": "mods/sophisticatedstorage-1_21_1-1_5_65_1903.jar",
+      "sha1": "76f6f4ffcaa544fde722873bad64c24a2a6496e7"
+    },
+    {
+      "action": "download",
+      "url": "https://github.com/hyde0606/nindoranmc/releases/download/260707_2200/spawnnotification-neoforge-1.7.3-2.3.0.jar",
+      "dest": "mods/spawnnotification-neoforge-1.7.3-2.3.0.jar",
+      "sha1": "caef60f1e98a4e2ba2e38535a9f5e054b3dd9909"
+    },
+    {
+      "action": "download",
+      "url": "https://github.com/hyde0606/nindoranmc/releases/download/260707_2200/stacksizetweaks-neoforge-0.3.2_1.21_kr.jar",
+      "dest": "mods/stacksizetweaks-neoforge-0.3.2_1.21_kr.jar",
+      "sha1": "1e941ab9fa15ce3f2a191f2a5c5065e96325c365"
+    },
+    {
+      "action": "download",
+      "url": "https://github.com/hyde0606/nindoranmc/releases/download/260707_2200/tfbr-1.21.1-4.2.2.jar",
+      "dest": "mods/tfbr-1.21.1-4.2.2.jar",
+      "sha1": "d03070f8532bef6b7714ff8016b351e73ee8ce88"
+    },
+    {
+      "action": "download",
+      "url": "https://github.com/hyde0606/nindoranmc/releases/download/260707_2200/timcore-neoforge-1.7.3-1.32.0.jar",
+      "dest": "mods/timcore-neoforge-1.7.3-1.32.0.jar",
+      "sha1": "741eb2aeac006f87d0d413965b2d965118ddae22"
+    },
+    {
+      "action": "download",
+      "url": "https://github.com/hyde0606/nindoranmc/releases/download/260707_2200/trashslot-neoforge-1.21.1-21.1.11.jar",
+      "dest": "mods/trashslot-neoforge-1.21.1-21.1.11.jar",
+      "sha1": "7343e4b563feb79122c8373a0d5416182ca436a8"
+    },
+    {
+      "action": "download",
+      "url": "https://github.com/hyde0606/nindoranmc/releases/download/260707_2200/twilightforest-1.21.1-4.8.3345-universal.jar",
+      "dest": "mods/twilightforest-1.21.1-4.8.3345-universal.jar",
+      "sha1": "9cfd4154928433e2f1f6cfc3deb48c284debb580"
+    },
+    {
+      "action": "download",
+      "url": "https://github.com/hyde0606/nindoranmc/releases/download/260707_2200/waystones-neoforge-1_21_1-21_1_34.jar",
+      "dest": "mods/waystones-neoforge-1_21_1-21_1_34.jar",
+      "sha1": "8eb67943d507575bffda7d5c3dc0ffb3a15bdbb7"
+    },
+    {
+      "action": "download",
+      "url": "https://github.com/hyde0606/nindoranmc/releases/download/260707_2200/yet_another_config_lib_v3-3.8.2+1.21.1-neoforge.jar",
+      "dest": "mods/yet_another_config_lib_v3-3.8.2+1.21.1-neoforge.jar",
+      "sha1": "fe270c9f6e0a8142cf316944087f5109cef08bbb"
+    }
+  ],
+  "optionPatches": []
+}
