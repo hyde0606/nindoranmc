@@ -268,7 +268,7 @@
     {
       "action": "download",
       "url": "https://github.com/hyde0606/nindoranmc/releases/download/260707_2200/cobblemon_quests-reloaded-.1.21.1.-neoforge-1.3.5.jar",
-      "dest": "mods/cobblemon_quests-reloaded-[1.21.1]-neoforge-1.3.5.jar",
+      "dest": "mods/cobblemon_quests-reloaded-.1.21.1.-neoforge-1.3.5.jar",
       "sha1": "f6c2dcae4857456139bb7b1f2c9e3edc87e3d94a"
     },
     {
