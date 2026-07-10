@@ -852,6 +852,7 @@
 	"key_key.fightorflight.cmdmode.nocmd": "key.keyboard.unknown",
 	"key_key.fightorflight.cmdmode.clear": "key.keyboard.unknown",
 	"key_key.inventorysorter.sort": "key.keyboard.r",
+	"key_key.sophisticatedcore.sort": "key.keyboard.r",
 	"key_key.inventorysorter.itemout": "key.keyboard.unknown",
 	"key_key.inventorysorter.itemin": "key.keyboard.unknown",
 	"key_key.jei.toggleOverlay": "key.keyboard.unknown",
