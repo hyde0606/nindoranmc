@@ -984,6 +984,60 @@
       "url": "https://github.com/hyde0606/nindoranmc/releases/download/260714_1930/stayexperienced-1.21.1-1.0.0.mialib-1.1.24-1.21.jar.input",
       "dest": "mods/.connector/temp/stayexperienced-1.21.1-1.0.0.mialib-1.1.24-1.21.jar.input",
       "sha1": "8c58913f6adce2e4f68dcdfcfa0c0399aeb5597c"
+    },
+    {
+      "action": "download",
+      "url": "https://github.com/hyde0606/nindoranmc/releases/download/260708_1915_config/accessories.json5",
+      "dest": "config/accessories.json5",
+      "sha1": "6044e714da6e2ba751834abd07b869eb59d38f45"
+    },
+    {
+      "action": "download",
+      "url": "https://github.com/hyde0606/nindoranmc/releases/download/260708_1915_config/accessories_compat.json5",
+      "dest": "config/accessories_compat.json5",
+      "sha1": "8713bf822b4e73757a6c1e678879fbe30cc2b875"
+    },
+    {
+      "action": "download",
+      "url": "https://github.com/hyde0606/nindoranmc/releases/download/260708_1915_config/battle_scoreboard_hider.json",
+      "dest": "config/battle_scoreboard_hider.json",
+      "sha1": "c48c93138254de0b2c008471d5c82b5e2e6514f2"
+    },
+    {
+      "action": "download",
+      "url": "https://github.com/hyde0606/nindoranmc/releases/download/260708_1915_config/cobblemon-battle-extras.json",
+      "dest": "config/cobblemon-battle-extras.json",
+      "sha1": "0830e7842f3a823750c0eef55c56e9548259416b"
+    },
+    {
+      "action": "download",
+      "url": "https://github.com/hyde0606/nindoranmc/releases/download/260708_1915_config/emi.css",
+      "dest": "config/emi.css",
+      "sha1": "aa22efe972c505c6d311212f8411cf840f7f403a"
+    },
+    {
+      "action": "download",
+      "url": "https://github.com/hyde0606/nindoranmc/releases/download/260708_1915_config/ftbchunks-client.snbt",
+      "dest": "config/ftbchunks-client.snbt",
+      "sha1": "b4907bbee6d484d88fb581deecaef17015de5d82"
+    },
+    {
+      "action": "download",
+      "url": "https://github.com/hyde0606/nindoranmc/releases/download/260708_1915_config/ftbquests-client.snbt",
+      "dest": "config/ftbquests-client.snbt",
+      "sha1": "eb0b1125b2795ccbf7b1e08fcf0c0a3b0b655b76"
+    },
+    {
+      "action": "download",
+      "url": "https://github.com/hyde0606/nindoranmc/releases/download/260708_1915_config/pingwheel.json",
+      "dest": "config/pingwheel.json",
+      "sha1": "e90b009988c75ecfa2666b255bd6f245de381363"
+    },
+    {
+      "action": "download",
+      "url": "https://github.com/hyde0606/nindoranmc/releases/download/260708_1915_config/scoreboardtweaks.json",
+      "dest": "config/scoreboardtweaks.json",
+      "sha1": "3602f256466b451dd73d76c6bf04f8ad6ef0237d"
     }
   ],
   "optionPatches": [
