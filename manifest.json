@@ -1162,7 +1162,7 @@
 	"key_key.legendary_monsters.helmet_ability": "key.keyboard.c",
 	"key_key.cobblemon_smartphone.open": "key.keyboard.h",
 	"key_key.cobblemon_smartphone.scanner": "key.keyboard.t:SHIFT",
-	"key_key.entityculling.toggle": "key.keyboard.unknown"
+	"key_key.entityculling.toggle": "key.keyboard.unknown",
 	"key_accessories.key.open_accessories_screen": "key.keyboard.i"
       }
     }
